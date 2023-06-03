@@ -1,15 +1,15 @@
 ## Native Maintenance
 
-Contributors: dhmskrn
-Donate link: https://paypal.me/dhimaskirana
-Tags: coming soon, coming soon page, maintenance, maintenance mode, under construction
-Requires at least: 5.2
-Tested up to: 6.2.2
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 A super simple maintenance mode plugin using native maintenance mode WordPress.
+
+-   Contributors: [dhmskrn](https://profiles.wordpress.org/dhmskrn/)
+-   Donate link: https://paypal.me/dhimaskirana
+-   Tags: coming soon, coming soon page, maintenance, maintenance mode, under construction
+-   Requires at least: 5.2
+-   Tested up to: 6.2.2
+-   Stable tag: 1.0.0
+-   License: GPLv2 or later
+-   License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ### Description
 
