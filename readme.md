@@ -1,5 +1,7 @@
 ## Native Maintenance
 
+![Native Maintenance](https://raw.githubusercontent.com/dhimaskirana/native-maintenance/master/screenshot.png)
+
 A super simple maintenance mode plugin using native maintenance mode WordPress.
 
 -   Contributors: [dhmskrn](https://profiles.wordpress.org/dhmskrn/)
